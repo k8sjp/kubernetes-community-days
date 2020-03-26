@@ -2,7 +2,7 @@
 title: Call for proposals (CFP)
 ---
 
-# みなさんのプロポーザルをお待ちしています!
+# 皆様のプロポーザルをお待ちしています!
 
 Kubernetes Community Daysのイベントは、コミュニティに関わりあなたのアイディアや取り組んでいることを共有する良い機会です。プロポーザルの提出に役職や業界の専門家である必要はありません。むしろ、私たちのイベントでは初めてのスピーカを歓迎しています。
 
@@ -22,7 +22,9 @@ Kubernetes Community Daysのイベントは、コミュニティに関わりあ�
 
 # プロポーザルの提出方法
 
-[KCD Tokyo CFP](https://kcdcfpsubmissions.smapply.io/prog/kcd_tokyo/)から提出してください。
+[KCD Tokyo CFP](https://kcdcfpsubmissions.smapply.io/prog/kcd_tokyo/)から4/19 23:59(JST)までに提出してください。
+
+> 注意: システムの仕様上CFPの期間がPDTで表示されています。
 
 # 行動規範 (Code of conduct) について
 Kubernetes Community Daysは、すべての参加者にハラスメントフリーな体験を提供したいと思っています。参加者の方は [行動規範（Code of Conduct）](https://www.linuxfoundation.jp/code-of-conduct/) を確認してください。

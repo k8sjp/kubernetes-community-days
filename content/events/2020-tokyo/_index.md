@@ -24,6 +24,9 @@ sponsors:
   - name: サイボウズ株式会社
     logo: cybozu.svg
     url: https://cybozu.co.jp/
+  - name: 日本マイクロソフト株式会社
+    logo: microsoft-japan.svg
+    url: https://azure.microsoft.com/ja-jp/services/kubernetes-service/#overview
 - level: silver
   size: medium
   orgs:
